@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="dark_blue">#3023AE</color>
+    <color name="purple">#c86dd7</color>
+
+    <color name="SignIn_forms">#ccffffff</color>
+    <color name="lightPurple">#ddd3ee </color>
+    <color name="SignInForms_details_light">#1affffff</color>
+    <color name="SignInForms_details_medium">#66ffffff</color>
+    <color name="lightPurple2">#d3d7ee</color>
+    <color name="lightPurple3">#c1c6e7</color>
+</resources>

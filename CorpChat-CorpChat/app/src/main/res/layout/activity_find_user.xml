@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_backgrnd2">
+
+
+    <Button
+        android:id="@+id/createChatId"
+        android:text="Create Chat"
+        android:textColor="#FFF2FE"
+        android:textSize="15sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/ic_btn_chatroom"
+        android:shadowColor="#8954A8"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="5"
+        android:textAllCaps="false"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_marginTop="@android:dimen/app_icon_size"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/corpUserList"
+        android:scrollbars="vertical">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>

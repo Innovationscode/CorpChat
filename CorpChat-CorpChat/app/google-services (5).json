@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "616576077471",
+    "firebase_url": "https://corpchat-corpchat.firebaseio.com",
+    "project_id": "corpchat-corpchat",
+    "storage_bucket": "corpchat-corpchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616576077471:android:308d6fbd8f45949a1d5caa",
+        "android_client_info": {
+          "package_name": "com.CorpChat.CorpChat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616576077471-mgmvdcd9scjdk5ekqcnt44kj097bga6i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CorpChat.CorpChat",
+            "certificate_hash": "28ef1453ec6ae364d1e682a00d1cb87398ce5a03"
+          }
+        },
+        {
+          "client_id": "616576077471-eq5nsu82svslvtk7die73ff8q0sq29t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7CFY_QsgGIqIEOw7c_uczIvDGpkWaems"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "616576077471-eq5nsu82svslvtk7die73ff8q0sq29t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
